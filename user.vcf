@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:P;Sohail;;;
-FN: Sohail  Raza 
-ORG:WebCiters;
-TITLE:Director\nAccount Manager
-EMAIL;type=INTERNET;type=WORK;type=pref:Raza@WebCiters.com
-TEL;type=WORK;type=VOICE:+31 624 812 661
-item1.ADR;type=WORK;type=pref:;;Boompjes 404\n3011XZ\, Rotterdam;;;;The Netherlands
+N:Polm;Albert;;;
+FN: Albert  Polm 
+ORG:PK Trading;
+TITLE:Director\n
+EMAIL;type=INTERNET;type=WORK;type=pref:albert@pktrading.nl
+TEL;type=WORK;type=VOICE:+31 614 842 170
+item1.ADR;type=WORK;type=pref:;;s-Gravendijkwal 57\n3021ED\, Rotterdam;;;;The Netherlands
 item1.X-ABADR:sg
-item2.URL;type=pref:webciters.com
+item2.URL;type=pref:pktrading.nl
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
