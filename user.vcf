@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Polm;Albert;;;
-FN: Albert  Polm 
-ORG:PK Trading;
+N:Raza;Haroon;;;
+FN: Haroon  Raza 
+ORG:Raza Advocaten;
 TITLE:Director\n
-EMAIL;type=INTERNET;type=WORK;type=pref:albert@pktrading.nl
-TEL;type=WORK;type=VOICE:+31 614 842 170
-item1.ADR;type=WORK;type=pref:;;s-Gravendijkwal 57\n3021ED\, Rotterdam;;;;The Netherlands
+EMAIL;type=INTERNET;type=WORK;type=pref:raza@razaadvocaten.nl
+TEL;type=WORK;type=VOICE:+31 629 387 734
+item1.ADR;type=WORK;type=pref:;;Boompjes 404\n3011XZ\, Rotterdam;;;;The Netherlands
 item1.X-ABADR:sg
-item2.URL;type=pref:pktrading.nl
+item2.URL;type=pref:razaadvocaten.nl
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
